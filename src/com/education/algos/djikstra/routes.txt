@@ -1,0 +1,20 @@
+S A
+A B 1
+A C 10
+A E 7
+B C 2
+B D 8
+C E 1
+C D 4
+C F 3
+D G 12
+D H 23
+E F 6
+E I 25
+F I 11
+F G 2
+G H 1
+G J 3
+G I 17
+H J 1
+J I 4

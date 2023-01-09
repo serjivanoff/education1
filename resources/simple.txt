@@ -1,0 +1,1 @@
+ANOTHER VERSION this is my static web site on S3 bucket
