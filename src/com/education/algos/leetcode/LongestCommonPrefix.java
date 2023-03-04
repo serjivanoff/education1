@@ -1,4 +1,4 @@
-package com.education.leetcode;
+package com.education.algos.leetcode;
 
 public class LongestCommonPrefix {
     public static void main(String[] args) {

@@ -1,9 +1,6 @@
-package com.education.leetcode.concurrency;
+package com.education.algos.leetcode.concurrency;
 
 import java.util.concurrent.Semaphore;
-import java.util.concurrent.locks.Condition;
-import java.util.concurrent.locks.Lock;
-import java.util.concurrent.locks.ReentrantLock;
 
 public class H2O {
 //    private final Lock lock = new ReentrantLock();

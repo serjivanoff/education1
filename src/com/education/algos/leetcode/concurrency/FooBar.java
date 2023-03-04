@@ -1,4 +1,4 @@
-package com.education.leetcode.concurrency;
+package com.education.algos.leetcode.concurrency;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;

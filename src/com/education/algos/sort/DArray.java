@@ -1,4 +1,4 @@
-package com.education.sort;
+package com.education.algos.sort;
 
 import java.util.Random;
 

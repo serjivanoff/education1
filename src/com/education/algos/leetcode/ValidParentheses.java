@@ -1,4 +1,4 @@
-package com.education.leetcode;
+package com.education.algos.leetcode;
 
 import java.util.Map;
 import java.util.Stack;

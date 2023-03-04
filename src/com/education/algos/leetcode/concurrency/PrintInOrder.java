@@ -1,4 +1,4 @@
-package com.education.leetcode.concurrency;
+package com.education.algos.leetcode.concurrency;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;
