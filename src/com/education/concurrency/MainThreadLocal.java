@@ -1,4 +1,4 @@
-package com.education;
+package com.education.concurrency;
 
 public class MainThreadLocal {
     public static final ThreadLocal<String> threadLocal = new ThreadLocal<>();
