@@ -1,4 +1,4 @@
-package com.education.algos.leetcode;
+package com.education.algos.leetcode.dynamic;
 
 public class ClimbingStairs {
     public static void main(String[] args) {

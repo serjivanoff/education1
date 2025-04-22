@@ -1,4 +1,4 @@
-package com.education.algos.leetcode;
+package com.education.algos.leetcode.dynamic;
 
 import java.util.Arrays;
 import java.util.Comparator;

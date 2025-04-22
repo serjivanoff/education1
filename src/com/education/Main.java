@@ -1,17 +1,15 @@
 package com.education;
 
-import java.util.Set;
-import java.util.concurrent.ConcurrentSkipListSet;
+import java.util.ArrayList;
+import java.util.Iterator;
 
 public class Main {
     public static void main(String[] args) {
-        Set<String> strings = new ConcurrentSkipListSet<>();
-        strings.add("asd");
-        strings.add("asdasd");
-        strings.add("asdasdasdas");
+        boolean a = true, b = false;
 
-        strings.forEach(strings::remove);
+    }
 
-        System.out.println();
+    private static boolean getC(boolean a, boolean b) {
+        return !a && !b || a && b;
     }
 }
